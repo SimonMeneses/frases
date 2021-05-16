@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frases/static/css/main.73320f80.chunk.css",
+    "main.js": "/frases/static/js/main.948fbd53.chunk.js",
+    "main.js.map": "/frases/static/js/main.948fbd53.chunk.js.map",
+    "runtime-main.js": "/frases/static/js/runtime-main.8fe5fbd0.js",
+    "runtime-main.js.map": "/frases/static/js/runtime-main.8fe5fbd0.js.map",
+    "static/js/2.92713efc.chunk.js": "/frases/static/js/2.92713efc.chunk.js",
+    "static/js/2.92713efc.chunk.js.map": "/frases/static/js/2.92713efc.chunk.js.map",
+    "index.html": "/frases/index.html",
+    "static/css/main.73320f80.chunk.css.map": "/frases/static/css/main.73320f80.chunk.css.map",
+    "static/js/2.92713efc.chunk.js.LICENSE.txt": "/frases/static/js/2.92713efc.chunk.js.LICENSE.txt",
+    "static/media/tumblr.6d4869d5.svg": "/frases/static/media/tumblr.6d4869d5.svg",
+    "static/media/twitter.498f92bd.svg": "/frases/static/media/twitter.498f92bd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fe5fbd0.js",
+    "static/js/2.92713efc.chunk.js",
+    "static/css/main.73320f80.chunk.css",
+    "static/js/main.948fbd53.chunk.js"
+  ]
+}
